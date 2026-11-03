@@ -1,0 +1,12 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Office temporary/lock files and Windows files
+~$*
+desktop.ini
+
+# Raw respondent data (confidential)
+DATA_COLLECTION_QUESTIONNAIRE_*.xlsx
+Book1.xlsx
